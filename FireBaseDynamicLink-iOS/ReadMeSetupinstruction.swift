@@ -10,6 +10,8 @@ import Foundation
 
 /*
  
+ For any help you can email me: vikas.mca11@gmail.com
+ 
  Please follow below setup instruction
  
  1: install pod file for dynamic links
@@ -48,5 +50,8 @@ import Foundation
  Add capability Associated Domains.
  Now add Domain like this applinks:appnamee.page.link
 
+ 
+ 
+ 
  
  */
