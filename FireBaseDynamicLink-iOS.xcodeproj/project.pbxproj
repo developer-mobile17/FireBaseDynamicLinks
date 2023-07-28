@@ -13,6 +13,7 @@
 		1D394BEE2A7413C400649CA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D394BEC2A7413C400649CA7 /* Main.storyboard */; };
 		1D394BF02A7413C800649CA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1D394BEF2A7413C800649CA7 /* Assets.xcassets */; };
 		1D394BF32A7413C800649CA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1D394BF12A7413C800649CA7 /* LaunchScreen.storyboard */; };
+		1D394BFB2A74161700649CA7 /* ReadMeSetupinstruction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D394BFA2A74161700649CA7 /* ReadMeSetupinstruction.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		1D394BEF2A7413C800649CA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1D394BF22A7413C800649CA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1D394BF42A7413C800649CA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1D394BFA2A74161700649CA7 /* ReadMeSetupinstruction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReadMeSetupinstruction.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		1D394BE52A7413C400649CA7 /* FireBaseDynamicLink-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				1D394BFA2A74161700649CA7 /* ReadMeSetupinstruction.swift */,
 				1D394BE62A7413C400649CA7 /* AppDelegate.swift */,
 				1D394BE82A7413C400649CA7 /* SceneDelegate.swift */,
 				1D394BEA2A7413C400649CA7 /* ViewController.swift */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1D394BFB2A74161700649CA7 /* ReadMeSetupinstruction.swift in Sources */,
 				1D394BEB2A7413C400649CA7 /* ViewController.swift in Sources */,
 				1D394BE72A7413C400649CA7 /* AppDelegate.swift in Sources */,
 				1D394BE92A7413C400649CA7 /* SceneDelegate.swift in Sources */,
